@@ -1,0 +1,2 @@
+ls -p -t | grep -v '^\.' | awk '{ printf "%s, ", $0}' | sed 's/, $/\n/'
+
