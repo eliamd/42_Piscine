@@ -1,8 +1,5 @@
-<h1 align="center" style="font-weight: bold;">42 Piscine 💻 2024</h1>  
-<p align="center">  
-  <a href="#technologies">Technologies</a> |  
-  <a href="#getting-started">Getting Started</a>
-</p>  
+<img src="https://github.com/eliamd/42_Piscine/blob/master/piscine.png?raw=true"/>
+
 <p align="center">  
   Projet de la Piscine 42, une introduction intensive aux bases de la programmation et du développement logiciel.  
 </p>  
